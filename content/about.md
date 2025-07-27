@@ -6,4 +6,4 @@ const eleventyNavigation = {
 ---
 # About
 
-I am a person that writes stuff.
+I'm Ibrahima, A Software Engineer from Senegal.

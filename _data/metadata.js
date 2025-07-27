@@ -1,8 +1,8 @@
 export default {
-	title: "Ibrahima's Personal Blog",
+	title: "Ibrahima's Blog",
 	url: "https://ibraloop.dev/",
 	language: "en",
-	description: "Writing whenever I feel like it.",
+	description: "A personal blog for writing about my thoughts and projects.",
 	author: {
 		name: "Ibrahima",
 		email: "ibraloop@gmail.com",
