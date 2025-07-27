@@ -1,6 +1,6 @@
 # Ibrahima's Personal Blog
 
-This is my personal blog built with [Eleventy](https://www.11ty.dev/). I write about my thoughts, projects, and experiences in software development.
+This is my personal blog built with [Eleventy](https://www.11ty.dev/), hosted at [https://ibraloop.netlify.app](https://ibraloop.netlify.app/). I write about my thoughts, projects, and experiences in software development.
 
 
 ## Credits
